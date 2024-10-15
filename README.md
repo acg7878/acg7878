@@ -1,7 +1,7 @@
-### Hi there, I'm WEGFan! 👋
+### Hi there, I'm DRink! 👋
 
 <a href="https://github.com/acg7878">
-  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=acg7878&show_icons=true" alt="DRink's GitHub Stats" />
 </a>
 
 ### My latest projects
